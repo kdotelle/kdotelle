@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdotelle
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new coding languages, puzzles, and crafts. 
 - 🌱 I’m currently learning React Hooks 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything! Let's make something cool. 
 - 📫 Follow me on Twitter to connect @_ImKristen
 
 <!---
